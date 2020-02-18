@@ -8,5 +8,5 @@ top row - QWERTYU\
 bottom row - SDGHJ\
 top row - 23567\
 **Features:**\
-switch octave pair - minus key\ 
+switch octave pair - minus key\
 play preprogrammed songs - 0 or 9
