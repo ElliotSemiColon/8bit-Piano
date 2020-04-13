@@ -1,4 +1,4 @@
-# 8bit-Piano
+# 8bit-piano
 Personal project, simple keyboard piano
 # Controls
 **White keys:**\
